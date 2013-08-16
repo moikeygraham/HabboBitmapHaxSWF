@@ -1,0 +1,1 @@
+This is works hand-in-hand with the HabboEncryptionClient repo. Essentially it parses a bitmap from which a prime and generator number are hidden within the image alpha to be used for initializing the RC4 crypto routine for the game. This has since changed and is obsolete, and is here for educational purposes. See HabboEncryptionClient repo for more info.
